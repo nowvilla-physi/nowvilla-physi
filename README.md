@@ -6,9 +6,10 @@
 
 <h2 align="left">Tech Blog</h2>
 
-
+Cooming soon...
 
 <h2>GitHub Stats</h2>
+
 <p align="left"> 
   <a href="https://github.com/nowvilla-physi">
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=nowvilla-physi&count_private=true&show_icons=true&theme=react" />
@@ -17,6 +18,11 @@
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowvilla-physi&layout=compact&theme=react" />
   </a>
 </p>
+
+
+[![](https://raw.githubusercontent.com/nowvilla-physi/nowvilla-physi/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/nowvilla-physi/nowvilla-physi/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nowvilla-physi/nowvilla-physi/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/nowvilla-physi/nowvilla-physi/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nowvilla-physi/nowvilla-physi/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nowvilla-physi&theme=onedark&margin-w=8&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
@@ -74,11 +80,5 @@
   </a>
   <a href="https://github.com/nowvilla-physi">
     <img height="20" src="https://img.shields.io/github/followers/nowvilla-physi?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/nowvilla_physi">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/nowvilla_physi/posts.svg" />
-  </a>
-  <a>
-    <img height="20" src="https://qiita-badge.apiapi.app/s/nowvilla_physi/contributions.svg" />
   </a>
 </p>
