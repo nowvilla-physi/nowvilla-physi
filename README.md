@@ -4,28 +4,27 @@
 * [Zenn](https://zenn.dev/web_tips)
 * [Twitter](https://twitter.com/nowvilla_physi)
 
-<h2 align="left">Tech Blog</h2>
-
-Cooming soon...
-
 <h2>GitHub Stats</h2>
 
 <p align="left"> 
   <a href="https://github.com/nowvilla-physi">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=nowvilla-physi&count_private=true&show_icons=true&theme=react" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=nowvilla-physi&count_private=true&show_icons=true&theme=nord" />
   </a>
   <a href="https://github.com/nowvilla-physi">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowvilla-physi&layout=compact&theme=react" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowvilla-physi&layout=compact&theme=nord" />
   </a>
 </p>
-
 
 [![](https://raw.githubusercontent.com/nowvilla-physi/nowvilla-physi/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/nowvilla-physi/nowvilla-physi/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nowvilla-physi/nowvilla-physi/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/nowvilla-physi/nowvilla-physi/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nowvilla-physi/nowvilla-physi/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nowvilla-physi&theme=onedark&margin-w=8&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=nowvilla-physi&theme=nord&margin-w=8&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+<h2 align="left">Tech Blog</h2>
+
+Cooming soon...
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left">
