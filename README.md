@@ -25,7 +25,8 @@
 
 <h2 align="left">Tech Blog</h2>
 
-Cooming soon...
+<!--[START POSTS]-->
+<!--[END POSTS]-->
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left">
