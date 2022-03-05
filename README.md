@@ -23,7 +23,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=nowvilla-physi&theme=nord&margin-w=8&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-<h2 align="left">Tech Blog</h2>
+<h2 align="left">Latest Tech Blog</h2>
 
 <!--[START POSTS]-->
 - ![](icon/zenn.png) [Flutterでよく使うライブラリまとめ & これってどうやるの？](https://zenn.dev/web_tips/books/df8423bbb204a1)
