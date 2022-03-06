@@ -6,7 +6,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@master
@@ -18,5 +17,5 @@ jobs:
       - name: git commit
         run: |
           git add README.md
-          git commit -m "update posts"
-          git push origin master
+
+          git diff --cached --quiet || (git commit -m "update tech blog." && git push origin master)
