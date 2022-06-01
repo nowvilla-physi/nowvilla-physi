@@ -26,11 +26,11 @@
 <h2 align="left">Latest Tech Blog</h2>
 
 <!--[START POSTS]-->
+- ![](icon/zenn.png) [入門 Dart](https://zenn.dev/web_tips/books/6bd1faebbacbc1)
 - ![](icon/zenn.png) [Flutterでよく使うライブラリまとめ & これってどうやるの？](https://zenn.dev/web_tips/books/df8423bbb204a1)
 - ![](icon/zenn.png) [まだ暗記してるの？ DartのListとMapのメソッド一覧](https://zenn.dev/web_tips/articles/8d7c2dc7810806)
 - ![](icon/zenn.png) [Next.jsを使ったカスタムドメインによるマルチテナントアプリの構築方法](https://zenn.dev/web_tips/articles/cc7b44e4ffe250)
 - ![](icon/zenn.png) [Next.js + TypeScript + Sass + eslint + prettier の環境構築超絶まとめ](https://zenn.dev/web_tips/articles/0ce1fcf7fd1430)
-- ![](icon/zenn.png) [事例で学ぶ エンジニアの戒め](https://zenn.dev/web_tips/articles/cf6220a051a1c3)
 <!--[END POSTS]-->
 
 <h2 align="left">Languages and Tools</h2>
