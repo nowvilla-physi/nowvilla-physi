@@ -26,11 +26,11 @@
 <h2 align="left">Latest Tech Blog</h2>
 
 <!--[START POSTS]-->
+- ![](icon/zenn.png) [Result型のすゝめ](https://zenn.dev/web_tips/books/d76ef4e3a9eed2)
 - ![](icon/zenn.png) [【Flutter】リアルタイムに情報を共有できるアプリをリリースしたことについて語る](https://zenn.dev/web_tips/articles/ecf0e3e2e68326)
 - ![](icon/zenn.png) [そのディレクトリ構成は恋される](https://zenn.dev/web_tips/articles/530d02aaf90400)
 - ![](icon/zenn.png) [Flutterで簡単マネタイズ！ RevenuecCat🐈でサブスク導入](https://zenn.dev/web_tips/books/c5ad4dcc0cdcc2)
 - ![](icon/zenn.png) [入門 Dart](https://zenn.dev/web_tips/books/6bd1faebbacbc1)
-- ![](icon/zenn.png) [Flutterでよく使うライブラリまとめ & これってどうやるの？](https://zenn.dev/web_tips/books/df8423bbb204a1)
 <!--[END POSTS]-->
 
 <h2 align="left">Languages and Tools</h2>
